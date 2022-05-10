@@ -22,5 +22,3 @@ admin@example.com (Admin)
 ![3 Product Details Screen](https://user-images.githubusercontent.com/67057256/146945289-6b6dc9c7-c77a-4b54-9627-63ef70d364dc.png)
 
 ![5 Order Summary Screen](https://user-images.githubusercontent.com/67057256/146945340-e973fa36-8670-4b5a-9caf-314829d8189b.png)
-
-![9 Product Creation Panel Screen](https://user-images.githubusercontent.com/67057256/146945379-bbbd2103-427a-49a3-b47c-806d2d0cf9b0.png)
